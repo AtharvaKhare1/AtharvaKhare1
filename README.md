@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AtharvaKhare1
 - 👀 I’m interested in Machine Learning and Datascience
-- 🌱 I’m currently learning Python, Java and Javascript
+- 🌱 I’m currently learning DSA in C++
 - 📫 You may reach me on my mail id: atharvakhare707@gmail.com
 
 <!---
